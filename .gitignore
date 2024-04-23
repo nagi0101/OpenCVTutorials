@@ -1,0 +1,13 @@
+### vcpkg ###
+# Vcpkg
+vcpkg/
+vcpkg-manifest-install.log
+
+## Manifest Mode
+vcpkg_installed/
+
+## Build
+out/
+
+### Visual Studio ###
+.vs/
